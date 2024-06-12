@@ -26,11 +26,11 @@ I'm a Software Engineering student at UEPA, focused on learning software develop
 ## Languages
 
 **English**
-Proficiency: ***Strong***
+Proficiency: ***Strong***  
 **Portuguese**
-Proficiency: Native
+Proficiency: Native  
 **Spanish**
-Proficiency: Weak
+Proficiency: Weak  
 
 ## Skillset - Fullstack developer
 
