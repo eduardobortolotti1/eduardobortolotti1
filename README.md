@@ -1,4 +1,4 @@
-# Hi there, I'm [Eduardo Bortolotti] 👋
+# Hi there, I'm Eduardo Bortolotti 👋
 
 🎓 **Software Engineering Student at Universidade do Estado do Pará (UEPA)**
 
@@ -8,9 +8,9 @@
 
 I'm a Software Engineering student at UEPA, focused on learning software development. I have a strong interest in software solutions and I'm constantly exploring new technologies and methodologies to improve my skills.
 
-- 🌱 I’m currently learning **[PostreSQL]**
+- 🌱 I’m currently learning **PostreSQL**
 - 💬 Ask me about **software development**, **web technologies**, and **programming languages**
-- 📫 How to reach me: **[eduardobortolottisantos@gmail.com]**
+- 📫 How to reach me: **eduardobortolottisantos@gmail.com**
 - ⚡ Fun fact: **Currently, pigs cannot fly**
 
 ---
