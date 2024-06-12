@@ -2,7 +2,6 @@
 
 🎓 **Software Engineering Student at Universidade do Estado do Pará (UEPA)**
 
----
 
 ## About Me
 
@@ -13,7 +12,6 @@ I'm a Software Engineering student at UEPA, focused on learning software develop
 - 📫 How to reach me: **eduardobortolottisantos@gmail.com**
 - ⚡ Fun fact: **Currently, pigs cannot fly**
 
----
 
 ## Education
 
