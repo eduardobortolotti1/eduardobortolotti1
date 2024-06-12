@@ -25,11 +25,11 @@ I'm a Software Engineering student at UEPA, focused on learning software develop
 
 ## Languages
 
-**English**
+**English**  
 Proficiency: ***Strong***  
-**Portuguese**
+**Portuguese**  
 Proficiency: Native  
-**Spanish**
+**Spanish**  
 Proficiency: Weak  
 
 ## Skillset - Fullstack developer
