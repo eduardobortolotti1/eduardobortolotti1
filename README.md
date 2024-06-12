@@ -22,3 +22,7 @@ I'm a Software Engineering student at UEPA, focused on learning software develop
 ### Instituto Federal do Pará (IFPA)
 **Course:** Technical Course in Informatics
 **Year:** 2020 - 2023
+
+## Skillset
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,express,python,postgres,mysql,postman,bash,windows)](Skillset)
