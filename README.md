@@ -20,8 +20,8 @@ I'm a Software Engineering student at UEPA, focused on learning software develop
 **Year:** 2023 - Present
 
 ### Instituto Federal do Pará (IFPA)
-**Course:** Technical Course in Informatics
-**Year:** 2020 - 2023
+**Course:** Technical Course in Informatics  
+**Year:** 2020 - 2023  
 
 ## Languages Proficiency
 
