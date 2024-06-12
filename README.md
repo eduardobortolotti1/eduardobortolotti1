@@ -23,14 +23,11 @@ I'm a Software Engineering student at UEPA, focused on learning software develop
 **Course:** Technical Course in Informatics
 **Year:** 2020 - 2023
 
-## Languages
+## Languages Proficiency
 
-**English**  
-Proficiency: ***Strong***  
-**Portuguese**  
-Proficiency: Native  
-**Spanish**  
-Proficiency: Weak  
+**English:** Strong  
+**Portuguese:** Native  
+**Spanish:** Weak  
 
 ## Skillset - Fullstack developer
 
