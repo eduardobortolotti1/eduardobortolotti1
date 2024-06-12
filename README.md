@@ -23,6 +23,15 @@ I'm a Software Engineering student at UEPA, focused on learning software develop
 **Course:** Technical Course in Informatics
 **Year:** 2020 - 2023
 
+## Languages
+
+## English
+**Proficiency:** Strong
+## Portuguese
+**Proficiency:** Native
+## Spanish
+**Proficiency:** Weak
+
 ## Skillset
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,express,python,postgres,mysql,postman,bash,windows)](Skillset)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,express,python,postgres,mysql,postman,bash,windows)]
