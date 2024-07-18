@@ -7,7 +7,7 @@
 
 I'm a Software Engineering student at UEPA, focused on learning software development. I have a strong interest in software solutions and I'm constantly exploring new technologies and methodologies to improve my skills.
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **React**
 - 💬 Ask me about **software development**, **web technologies**, and **programming languages**
 - 📫 How to reach me: **eduardobortolottisantos@gmail.com**
 - ⚡ Fun fact: **Currently, pigs cannot fly**
