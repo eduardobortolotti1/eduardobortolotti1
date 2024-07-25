@@ -10,7 +10,7 @@ I'm a Software Engineering student at UEPA, focused on learning software develop
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **software development**, **web technologies**, and **programming languages**
 - 📫 How to reach me: **eduardobortolottisantos@gmail.com**
-- ⚡ Fun fact: **Currently, pigs cannot fly**
+- ⚡ Fun fact: **You just lost *the game***
 
 
 ## Education
