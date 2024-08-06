@@ -27,6 +27,8 @@ I'm a Software Engineering student at UEPA, focused on learning software develop
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,nodejs,express,react,python,postgres,mysql,postman,bash,windows)
 
+##  
+
 <div>
 <a href="https://github.com/eduardobortolotti1/">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobortolotti1&layout=compact&langs_count=7&theme=dracula"/>
