@@ -21,7 +21,7 @@ I'm a Software Engineering student at UEPA, focused on learning software develop
 
 ### Instituto Federal do Pará (IFPA)
 **Course:** Technical Course in Informatics  
-**Year:** 2020 - 2023  
+**Year:** 2020 - 2022  
 
 ## Skillset - Fullstack developer
 
