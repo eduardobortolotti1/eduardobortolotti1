@@ -25,7 +25,7 @@ I'm a Software Engineering student at UEPA, focused on learning software develop
 
 ## Skillset - Fullstack developer
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,express,react,java,typescript,python,postgres,mysql,postman,bash,windows)
+![My Skills](https://skillicons.dev/icons?i=git,js,bootstrap,nodejs,express,react,java,typescript,python,postgres,mysql,postman)
 
 ##  
 
