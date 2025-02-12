@@ -9,7 +9,7 @@ I'm a Software Engineering student at UEPA, focused on learning software develop
 
 - 🌱 I’m currently learning **Java & Spring Boot**
 - 💬 Ask me about **software development**, **web technologies**, and **programming languages**
-- 📫 How to reach me: **eduardobortolottisantos@gmail.com**
+- 📫 How to reach me: **eduardobortolottisantos@gmail.com** or my [Linkedin](https://www.linkedin.com/in/eduardo-bortolotti-santos/)
 - ⚡ Fun fact: **You just lost *the game***
 
 
