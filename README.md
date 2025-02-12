@@ -23,7 +23,7 @@ I'm a Software Engineering student at UEPA, focused on learning software develop
 **Course:** Technical Course in Informatics  
 **Year:** 2020 - 2022  
 
-## Skillset - Fullstack developer
+## Skills
 
 ![My Skills](https://skillicons.dev/icons?i=git,js,bootstrap,nodejs,react,java,typescript,python,postgres,mysql,postman)
 
