@@ -25,7 +25,7 @@ I'm a Software Engineering student at UEPA, focused on learning software develop
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=git,js,bootstrap,nodejs,express,ejs,react,java,typescript,python,postgres,mysql,postman)
+![My Skills](https://skillicons.dev/icons?i=git,js,bootstrap,nodejs,express,react,java,typescript,firebase,python,postgres,mysql,postman)
 
 ##  
 
